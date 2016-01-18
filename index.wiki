@@ -1,5 +1,11 @@
  = My Knowledage For Storage System =
 * 简介
+* 存储设备
+    - 磁带
+    - 磁盘
+    - RAID
+    - SSD(solid state disk)
+    - NVM(non-volatile memory)
 * 文件系统
     - 本地文件系统(Local file system)
         - 简介
