@@ -26,8 +26,8 @@
     - *NoSQL* 系统
         - 问题来源
         - 典型NoSQL系统
-            # [[subdir/hbase|*HBase* 系统]]
-            # [[http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf|*BigTable* 系统]]
+            # [[subdir/hbase|HBase 系统]]
+            # [[http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf|BigTable 系统]]
             # *Cassandra* 系统
         - 未来挑战
     - NewSQL系统
@@ -52,13 +52,7 @@
         # *Google F1*
     - 总结
 * Facebook
-* 
-*
 
-| head3 | head2 | head1 |
-|-------|-------|-------|
-| item3 | item2 | item1 |
 = Generated Links =
     - [[hdfs]]
     - [[index]]
-{{file:/home/qzhong/Pictures/阿里云—基础平台研发工程师.png}}
