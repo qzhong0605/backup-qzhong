@@ -6,6 +6,10 @@
         - 问题来源
         - [[http://qzhong0605.github.io/filesystem/memoryfs/proc.txt|proc 文件系统]]
         - *ext2/ext3/ext4* 文件系统
+            # [[http://qzhong0605.github.io/filesystem/localfs/ext4.txt|ext4 file system]] 
+            # [[https://ext4.wiki.kernel.org/index.php/Main_Page|ext4 wiki社区]]
+            # [[http://qzhong0605.github.io/filesystem/localfs/ext3_design.pdf|design of ext file system]]
+            # [[http://qzhong0605.github.io/filesystem/localfs/ext_presentation.pdf|presentation of ext file system ]]
         - *XFS* 文件系统
         - *btrfs* 文件系统
         - 未来挑战
