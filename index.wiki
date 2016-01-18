@@ -1,4 +1,4 @@
- [[=]] My Knowledage For Storage System =
+ = My Knowledage For Storage System =
 * 简介
 * 文件系统
     - 本地文件系统(Local file system)
