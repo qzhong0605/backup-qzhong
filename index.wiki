@@ -4,7 +4,7 @@
     - 本地文件系统(Local file system)
         - 简介
         - 问题来源
-        - [[./filesystem/memoryfs/proc|proc 文件系统]]
+        - [[http://qzhong0605.github.io/filesystem/memoryfs/proc.txt|proc 文件系统]]
         - *ext2/ext3/ext4* 文件系统
         - *XFS* 文件系统
         - *btrfs* 文件系统
@@ -12,7 +12,7 @@
     - 分布式文件系统(Distributed file system)
         - [[简介]]
         - [[问题来源]]
-        - [[./filesystem/distributedfs/hdfs|HDFS 分布式文件系统]]
+        - [[http://qzhong0605.github.io/filesystem/distributedfs/hdfs|HDFS 分布式文件系统]]
         - *Ceph* 分布式文件系统
         - *GlusterFS* 分布式文件系统
         - 未来挑战
