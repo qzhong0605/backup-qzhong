@@ -1,0 +1,8 @@
+= Hadoop Distributed File System =
+* 简介
+* HDFS是一个分布式文件系统，建立在廉价的服务器设备之上。HDFS是对应与Google File System的开源实现，GFS开源实现的另外一个版本是Moose File System。HDFS通过连接多个不同计算机设备构成了一个巨大的存储容量空间。HDFS由Client、NameNode、DataNode三部分组成。
+* 安装和使用
+* HDFS特性
+    - Federation
+    - 数据节点Replication
+    -] High Available方法
