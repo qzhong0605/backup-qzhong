@@ -12,3 +12,6 @@
     - Tier分层存储技术
     - SSD技术支持
     - Block Pool技术
+== Further Readings ==
+    - [[https://blog.cloudera.com/blog/category/hdfs/|Cloudera Blog]]
+    - [[http://hortonworks.com/blog/|Hortonworks Blog]]
