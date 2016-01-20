@@ -1,0 +1,7 @@
+= HDFS Federation =
+
+== Background ==
+== Federated HDFS Architecture Overview == 
+== High Level Desgin ==
+== Use Case ==
+== Future Improvement == 

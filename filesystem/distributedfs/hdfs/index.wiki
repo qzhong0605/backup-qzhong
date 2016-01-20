@@ -5,7 +5,7 @@
 === Installation and Use ===
     安装使用分为standlone和distributed，具体安装见[[http://hadoop.apache.org/docs/current/|Hadoop Document]]。以后详细的参数优化需要查看具体的每个参数的含义，每个参数的含义见[[http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/hdfs-default.xml|hdfs-default.html]]  
 == Features ==
-    - Federation
+    - [[Federation]]
     - 数据节点Replication
     - High Available方法
     - Central Cache（集中化缓存）
