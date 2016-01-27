@@ -1,4 +1,6 @@
+<div align="center">
 = HDFS Federation =
+</div>
 
 == Background ==
 == Federated HDFS Architecture Overview == 
