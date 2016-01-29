@@ -17,3 +17,4 @@
 == Further Readings ==
     - [[https://blog.cloudera.com/blog/category/hdfs/|Cloudera Blog]]
     - [[http://hortonworks.com/blog/|Hortonworks Blog]]
+    - [[https://issues.apache.org/jira/secure/Dashboard.jspa|Hadoop Issuse Tracker]]

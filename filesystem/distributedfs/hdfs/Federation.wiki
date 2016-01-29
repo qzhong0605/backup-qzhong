@@ -2,6 +2,12 @@
 = HDFS Federation =
 </div>
 
+== Intro ==
+   HDFS集群拥有单一的名字空间管理整个分布式文件系统的名字空间。当前单名字空间造成的限制如下：
+   * 扩展性（scalability）：名字节点维持整个名字空间到内存中，名字空间节点的内存大小限制了整个分布式文件系统的元数据的大小，这样就造成了整个分布式文件系统的大小受限于元数据大小
+   * 性能扩展性（performance scalability）：整个分布式文件系统的吞吐量受限于单个名字节点上的吞吐量
+   * 隔离（isolation）：没有多用户环境的隔离机制。实验用户的创建文件操作会影响生产用户的操作
+   * 有效性（availability）：在单个namenode节点的情况下，容易造成单点故障问题。当前设计中如果该namenode节点失效情况下，整个分布式文件系统将无法使用。影响了整个分布式文件系统的有效性。
 == Background ==
 == Federated HDFS Architecture Overview == 
 == High Level Desgin ==
